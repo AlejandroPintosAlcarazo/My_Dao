@@ -3,9 +3,25 @@ pragma solidity ^0.8.0;
 
 contract Proxy {
     address public logicAddress;
+    address public admin;
+
+    event LogicAddressUpdated(address indexed oldAddress, address indexed newAddress);
+
+    modifier onlyAdmin() {
+        require(msg.sender == admin, "Only admin can perform this action");
+        _;
+    }
 
     constructor(address _logicAddress) {
         logicAddress = _logicAddress;
+        admin = msg.sender;
+    }
+
+    function updateLogicAddress(address _newLogicAddress) external onlyAdmin {
+        require(_newLogicAddress != address(0), "New logic address cannot be zero address");
+        address oldAddress = logicAddress;
+        logicAddress = _newLogicAddress;
+        emit LogicAddressUpdated(oldAddress, _newLogicAddress);
     }
 
     fallback() external payable {
