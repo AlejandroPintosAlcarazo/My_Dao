@@ -1,0 +1,18 @@
+.guildCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    background-color: #1c2126;
+    color: #fff;
+    border-radius: 0.5rem;
+    text-align: center;
+  }
+  
+  .guildImage {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  

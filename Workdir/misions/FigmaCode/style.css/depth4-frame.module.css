@@ -1,0 +1,128 @@
+.week2Daily {
+  align-self: stretch;
+  position: relative;
+  line-height: 1.25rem;
+}
+.depth8Frame0 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.learnHowTo {
+  align-self: stretch;
+  position: relative;
+  line-height: 1.313rem;
+}
+.depth7Frame0,
+.depth8Frame1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth8Frame1 {
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray);
+}
+.depth7Frame0 {
+  gap: var(--gap-9xs);
+}
+.unlock {
+  align-self: stretch;
+  position: relative;
+  line-height: 1.313rem;
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.depth8Frame01 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.depth6Frame0,
+.depth7Frame1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.depth7Frame1 {
+  width: 100%;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-7xs-5) var(--padding-lgi);
+  min-width: 5.25rem;
+  max-width: 30rem;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.depth6Frame0 {
+  width: 38rem;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-59xl);
+  gap: var(--gap-base);
+  min-width: 38rem;
+  max-width: 100%;
+}
+.depth6Frame1 {
+  height: 10.688rem;
+  width: 20rem;
+  position: relative;
+  border-radius: var(--br-xs);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.depth4Frame4,
+.depth5Frame0 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.depth5Frame0 {
+  border-radius: var(--br-xs);
+  flex-direction: row;
+  justify-content: space-between;
+  row-gap: 20px;
+  gap: var(--gap-0);
+}
+.depth4Frame4 {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-manrope);
+}
+@media screen and (max-width: 1000px) {
+  .depth6Frame0,
+  .depth6Frame1 {
+    flex: 1;
+  }
+  .depth5Frame0 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 725px) {
+  .depth7Frame1 {
+    max-width: 100%;
+  }
+  .depth6Frame0 {
+    min-width: 100%;
+  }
+}

@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslategray: #293038;
+  --color-darkgray: #9eabb8;
+  --color-dodgerblue: #1a80e6;
+  --color-gainsboro: #e6e8eb;
+
+  /* Gaps */
+  --gap-0: 0rem;
+  --gap-base: 1rem;
+  --gap-9xs: 0.25rem;
+  --gap-xl: 1.25rem;
+  --gap-xs: 0.75rem;
+  --gap-13xl: 2rem;
+
+  /* Paddings */
+  --padding-xl: 1.25rem;
+  --padding-lgi: 1.187rem;
+  --padding-base: 1rem;
+  --padding-59xl: 4.875rem;
+  --padding-7xs-5: 0.343rem;
+  --padding-5xs: 0.5rem;
+  --padding-xs: 0.75rem;
+  --padding-21xl: 2.5rem;
+  --padding-2xs: 0.687rem;
+  --padding-570xl: 36.812rem;
+  --padding-128xl: 9.187rem;
+  --padding-275xl: 18.375rem;
+  --padding-3xs-5: 0.593rem;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+}

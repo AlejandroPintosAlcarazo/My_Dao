@@ -1,0 +1,42 @@
+.depth8Frame0 {
+    width: 11.938rem;
+    height: 11.938rem;
+    position: relative;
+    border-radius: var(--br-76xl-5);
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .depth7Frame0 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 var(--padding-base);
+  }
+  .language {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.5rem;
+    font-weight: 500;
+  }
+  .depth6Frame0,
+  .depth7Frame1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .depth7Frame1 {
+    align-self: stretch;
+    align-items: center;
+  }
+  .depth6Frame0 {
+    align-items: flex-start;
+    padding: 0 0 var(--padding-xs);
+    gap: var(--gap-xs);
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-manrope);
+  }

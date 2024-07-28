@@ -1,0 +1,28 @@
+.infoCard {
+  display: flex;
+  justify-content: space-between;
+  background-color: #293038;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.cardContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.cardTitle {
+  font-weight: bold;
+}
+
+.cardDescription {
+  margin-top: 0.5rem;
+}
+
+.viewAll {
+  align-self: center;
+  color: #1a80e6;
+  text-decoration: none;
+}
+

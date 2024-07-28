@@ -1,0 +1,32 @@
+.guild {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1c2126;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  text-align: center;
+  padding: 1rem;
+  color: #fff;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 0.5rem;
+}
+
+.info {
+  padding: 1rem 0;
+}
+
+.name {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 1rem;
+  color: #9eabb8;
+}

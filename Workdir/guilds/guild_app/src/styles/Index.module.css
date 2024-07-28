@@ -1,0 +1,19 @@
+.page {
+    background-color: #121417;
+    color: #fff;
+    min-height: 100vh;
+    padding: 2rem;
+  }
+  
+  .content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  

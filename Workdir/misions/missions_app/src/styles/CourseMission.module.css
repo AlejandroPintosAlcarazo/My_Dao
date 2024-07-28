@@ -1,0 +1,39 @@
+.courseMission {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .image {
+    width: 100px;
+    height: 100px;
+    border-radius: 0.5rem;
+    margin-right: 1rem;
+  }
+  
+  .textContainer {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .week {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #9eabb8;
+  }
+  
+  .button {
+    padding: 0.5rem 1rem;
+    background-color: #1a80e6;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    margin-top: 0.5rem;
+  }
+  

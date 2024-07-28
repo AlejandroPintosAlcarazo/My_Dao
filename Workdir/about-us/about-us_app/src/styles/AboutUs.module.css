@@ -1,0 +1,56 @@
+.aboutUsPage {
+  font-family: var(--font-manrope);
+  color: var(--color-darkslategray-100);
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  background-color: #121417;
+  color: #fff;
+}
+
+.headerContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headerImage {
+  max-width: 100%;
+  border-radius: 0.5rem;
+}
+
+.headerText {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.primaryButton, .secondaryButton {
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.primaryButton {
+  background-color: #1a80e6;
+  color: #fff;
+}
+
+.secondaryButton {
+  background-color: #fff;
+  color: #1a80e6;
+}
+
+.mainContent {
+  padding: 2rem;
+}

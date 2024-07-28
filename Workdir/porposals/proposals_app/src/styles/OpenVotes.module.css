@@ -1,0 +1,17 @@
+.openVotes {
+  padding: 2rem;
+  background-color: #121417;
+  border-radius: 0.5rem;
+}
+
+.voteHeader {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.headerItem {
+  flex: 1;
+}
+

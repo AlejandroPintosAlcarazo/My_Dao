@@ -1,0 +1,23 @@
+.voteCard {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: #293038;
+  margin-bottom: 1rem;
+  border-radius: 0.5rem;
+}
+
+.user {
+  flex: 1;
+  font-weight: bold;
+}
+
+.title, .description, .dates {
+  flex: 1;
+}
+
+.startDate, .endDate {
+  flex: 1;
+  text-align: center;
+}
+

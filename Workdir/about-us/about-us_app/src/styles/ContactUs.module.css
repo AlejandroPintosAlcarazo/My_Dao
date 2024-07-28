@@ -1,0 +1,24 @@
+.contactUs {
+    padding: 2rem;
+    background-color: #f5f5f5;
+    border-radius: 0.5rem;
+    text-align: center;
+  }
+  
+  .contactUs h2 {
+    margin-bottom: 1rem;
+  }
+  
+  .contactUs p {
+    margin-bottom: 1rem;
+  }
+  
+  .contactUs button {
+    padding: 0.5rem 1rem;
+    background-color: #1a80e6;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+  

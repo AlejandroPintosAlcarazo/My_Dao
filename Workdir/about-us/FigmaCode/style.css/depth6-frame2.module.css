@@ -1,0 +1,55 @@
+.depth7Frame0 {
+    width: 11rem;
+    height: 11rem;
+    position: relative;
+    border-radius: var(--br-xs);
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .language {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.5rem;
+    font-weight: 500;
+  }
+  .depth8Frame0 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .learnGrowAnd {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth8Frame1 {
+    align-self: stretch;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkgray);
+  }
+  .depth6Frame0,
+  .depth7Frame1,
+  .depth8Frame1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth7Frame1 {
+    align-self: stretch;
+  }
+  .depth6Frame0 {
+    flex: 1;
+    padding: 0 0 var(--padding-xs);
+    box-sizing: border-box;
+    gap: var(--gap-xs);
+    min-width: 10.75rem;
+    max-width: 11rem;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-manrope);
+  }
