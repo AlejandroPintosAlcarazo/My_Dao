@@ -2,14 +2,30 @@
 pragma solidity ^0.8.0;
 
 contract Storage {
-    uint256 public number;
+    // Mapeo para almacenar las direcciones de las wallets registradas
+    mapping(address => bool) public registeredWallets;
 
-    function setNumber(uint256 _number) public {
-        number = _number;
+    // Eventos para registro de wallets
+    event WalletRegistered(address indexed walletAddress);
+    event WalletRemoved(address indexed walletAddress);
+
+    // Función para registrar una wallet
+    function registerWallet(address _wallet) external {
+        require(_wallet != address(0), "Invalid wallet address");
+        registeredWallets[_wallet] = true;
+        emit WalletRegistered(_wallet);
     }
 
-    function getNumber() public view returns (uint256) {
-        return number;
+    // Función para eliminar una wallet
+    function removeWallet(address _wallet) external {
+        require(registeredWallets[_wallet], "Wallet not registered");
+        registeredWallets[_wallet] = false;
+        emit WalletRemoved(_wallet);
+    }
+
+    // Función para verificar si una wallet está registrada
+    function isWalletRegistered(address _wallet) external view returns (bool) {
+        return registeredWallets[_wallet];
     }
 }
 

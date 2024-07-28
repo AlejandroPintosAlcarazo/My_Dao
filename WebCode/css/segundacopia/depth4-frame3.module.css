@@ -1,0 +1,97 @@
+.cancelButtonContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth7Frame0 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.313rem;
+    height: 1.125rem;
+  }
+  .depth6Frame0 {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth5Frame0 {
+    border-radius: var(--br-5xs);
+    background-color: var(--color-darkslategray-200);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-xs);
+  }
+  .votingPower {
+    position: relative;
+    line-height: 1.5rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 6.188rem;
+  }
+  .depth6Frame01 {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .eth {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth5Frame1,
+  .depth6Frame1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .depth6Frame1 {
+    align-self: stretch;
+    overflow: hidden;
+    justify-content: flex-start;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkgray-200);
+  }
+  .depth5Frame1 {
+    flex: 1;
+    justify-content: center;
+    min-width: 4rem;
+  }
+  .depth4Frame4 {
+    align-self: stretch;
+    background-color: var(--color-gray-200);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-xs) var(--padding-762xl) var(--padding-xs)
+      var(--padding-base);
+    box-sizing: border-box;
+    gap: var(--gap-base);
+    min-height: 4.5rem;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-manrope);
+  }
+  @media screen and (max-width: 1000px) {
+    .depth4Frame4 {
+      padding-right: var(--padding-371xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .depth4Frame4 {
+      padding-right: var(--padding-176xl);
+      box-sizing: border-box;
+    }
+  }

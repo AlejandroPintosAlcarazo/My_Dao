@@ -1,26 +1,28 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
+interface IStorage {
+    function registerWallet(address _wallet) external;
+    function removeWallet(address _wallet) external;
+    function isWalletRegistered(address _wallet) external view returns (bool);
+}
+
 contract Logic {
-    address public storageAddress;
+    IStorage public storageContract;
 
     constructor(address _storageAddress) {
-        storageAddress = _storageAddress;
+        storageContract = IStorage(_storageAddress);
     }
 
-    function setNumber(uint256 _number) public {
-        (bool success, ) = storageAddress.call(
-            abi.encodeWithSignature("setNumber(uint256)", _number)
-        );
-        require(success, "Call to Storage contract failed");
+    // Función para registrar una nueva wallet
+    function registerNewWallet(address _wallet) external {
+        require(_wallet != address(0), "Invalid wallet address");
+        storageContract.registerWallet(_wallet);
     }
 
-    function getNumber() public view returns (uint256) {
-        (bool success, bytes memory data) = storageAddress.staticcall(
-            abi.encodeWithSignature("getNumber()")
-        );
-        require(success, "Call to Storage contract failed");
-        return abi.decode(data, (uint256));
+    // Función para verificar si una wallet está registrada
+    function isWalletRegistered(address _wallet) external view returns (bool) {
+        return storageContract.isWalletRegistered(_wallet);
     }
 }
 

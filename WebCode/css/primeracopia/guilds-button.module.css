@@ -1,0 +1,356 @@
+.academyGuild {
+    margin: 0;
+    align-self: stretch;
+    position: relative;
+    font-size: inherit;
+    line-height: 2.5rem;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  .depth4Frame0,
+  .depth5Frame0 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth5Frame0 {
+    width: 18rem;
+    flex-direction: column;
+    min-width: 18rem;
+  }
+  .depth4Frame0 {
+    align-self: stretch;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: var(--padding-base) var(--padding-637xl) var(--padding-base)
+      var(--padding-base);
+    gap: var(--gap-xs);
+    font-size: var(--font-size-13xl);
+  }
+  .depth9Frame0,
+  .vector0 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .vector0 {
+    width: 100%;
+    height: 100%;
+  }
+  .depth9Frame0 {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+  .depth8Frame0 {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth7Frame0 {
+    border-radius: var(--br-xs) 0 0 var(--br-xs);
+    background-color: var(--color-darkslategray-300);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-xs) 0 var(--padding-xs) var(--padding-base);
+  }
+  .searchForA {
+    position: relative;
+    line-height: 1.5rem;
+    white-space: pre-wrap;
+    display: inline-block;
+    min-width: 8rem;
+  }
+  .depth7Frame1 {
+    flex: 1;
+    border-radius: 0 var(--br-xs) var(--br-xs) 0;
+    background-color: var(--color-darkslategray-300);
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-xs) var(--padding-5xs);
+    box-sizing: border-box;
+    min-width: 8rem;
+    max-width: 100%;
+  }
+  .depth4Frame1,
+  .depth5Frame01,
+  .depth6Frame0 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .depth6Frame0 {
+    border-radius: var(--br-xs);
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+  .depth4Frame1,
+  .depth5Frame01 {
+    flex-direction: column;
+  }
+  .depth5Frame01 {
+    min-width: 10rem;
+  }
+  .depth4Frame1 {
+    padding: var(--padding-xs) var(--padding-base);
+    box-sizing: border-box;
+    font-size: var(--font-size-base);
+    color: var(--color-darkgray-100);
+  }
+  .languageClans {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.438rem;
+  }
+  .depth4Frame2 {
+    flex-direction: column;
+    padding: var(--padding-base) var(--padding-base) var(--padding-5xs);
+  }
+  .depth4Frame2,
+  .depth4Frame3,
+  .depth5Frame02 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth5Frame02 {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: var(--gap-xs);
+  }
+  .depth4Frame3 {
+    flex-direction: column;
+    padding: var(--padding-base);
+  }
+  .joinALanguage {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.438rem;
+  }
+  .depth4Frame4 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-base) var(--padding-base) var(--padding-5xs);
+  }
+  .english {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3rem;
+  }
+  .depth6Frame01 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth5Frame03 {
+    border-radius: var(--br-xs);
+    background-color: var(--color-darkslategray-300);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-7xs-5) var(--padding-base);
+  }
+  .spanish {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.313rem;
+  }
+  .depth6Frame02 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth5Frame1 {
+    border-radius: var(--br-xs);
+    background-color: var(--color-darkslategray-300);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-7xs-5) var(--padding-base);
+  }
+  .chinese {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.438rem;
+  }
+  .depth6Frame03 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth5Frame2 {
+    border-radius: var(--br-xs);
+    background-color: var(--color-darkslategray-300);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-7xs-5) var(--padding-base);
+  }
+  .french {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 2.813rem;
+  }
+  .depth6Frame04 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth5Frame3 {
+    border-radius: var(--br-xs);
+    background-color: var(--color-darkslategray-300);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-7xs-5) var(--padding-base);
+  }
+  .german {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.25rem;
+  }
+  .depth6Frame05 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth5Frame4 {
+    border-radius: var(--br-xs);
+    background-color: var(--color-darkslategray-300);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-7xs-5) var(--padding-base);
+  }
+  .depth3Frame0,
+  .depth4Frame5 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth4Frame5 {
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: var(--padding-xs) 30.687rem var(--padding-xs) var(--padding-xs);
+    gap: 0.75rem 0.687rem;
+    font-size: var(--font-size-sm);
+  }
+  .depth3Frame0 {
+    width: 60rem;
+    overflow: hidden;
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: 0 0 13.875rem;
+    box-sizing: border-box;
+    max-width: 60rem;
+  }
+  .depth1Frame0,
+  .depth2Frame1 {
+    align-self: stretch;
+    max-width: 100%;
+  }
+  .depth2Frame1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .depth1Frame0 {
+    text-align: left;
+    font-size: var(--font-size-lg);
+    color: var(--color-white);
+    font-family: var(--font-manrope);
+  }
+  .depth0Frame0,
+  .depth1Frame0,
+  .guildsButton {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth0Frame0 {
+    align-self: stretch;
+    background-color: var(--color-gray-200);
+    min-height: 50rem;
+    max-width: 100%;
+  }
+  .guildsButton {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-white);
+    line-height: normal;
+    letter-spacing: normal;
+  }
+  @media screen and (max-width: 1025px) {
+    .depth4Frame0 {
+      padding-right: var(--padding-145xl);
+      box-sizing: border-box;
+    }
+    .depth4Frame5 {
+      padding-right: 7.625rem;
+      box-sizing: border-box;
+    }
+    .depth3Frame0 {
+      padding-bottom: 9rem;
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .academyGuild {
+      font-size: var(--font-size-7xl);
+      line-height: 2rem;
+    }
+    .depth4Frame0 {
+      padding-right: var(--padding-309xl);
+      box-sizing: border-box;
+    }
+    .depth4Frame5 {
+      padding-right: 15.313rem;
+      box-sizing: border-box;
+    }
+    .depth3Frame0 {
+      max-width: 100%;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .academyGuild {
+      font-size: var(--font-size-lgi);
+      line-height: 1.5rem;
+    }
+  }
