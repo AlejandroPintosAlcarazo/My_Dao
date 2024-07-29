@@ -1,0 +1,28 @@
+.statistics {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  
+  .card {
+    background-color: #1a1a1d;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    flex: 1;
+    min-width: 100px;
+  }
+  
+  .value {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .label {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    color: #c9c9c9;
+  }
+  

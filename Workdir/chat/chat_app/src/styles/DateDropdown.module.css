@@ -1,0 +1,18 @@
+.dateDropdown {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+  
+.label {
+    font-size: 1rem;
+    font-weight: bold;
+}
+  
+.select {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+}

@@ -1,0 +1,32 @@
+.searchBarContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+  
+.searchInput {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+}
+  
+.tagsContainer {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+  
+.tag {
+    padding: 0.5rem 1rem;
+    background-color: #263645;
+    color: #fff;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
+  
+.tag:hover {
+    background-color: #1a80e6;
+}

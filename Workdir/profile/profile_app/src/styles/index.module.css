@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #121212; /* Color de fondo de la página */
+    color: #fff; /* Color del texto */
+  }
+  
+  .main {
+    display: flex;
+    flex: 1;
+  }
+  
+  .content {
+    flex: 1;
+    padding: 1rem;
+    background-color: #1a1a1d; /* Color de fondo del contenido */
+  }
+  

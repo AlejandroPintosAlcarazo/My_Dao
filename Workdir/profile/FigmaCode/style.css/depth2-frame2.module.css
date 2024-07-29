@@ -1,0 +1,220 @@
+.depth6Frame0,
+.vector0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector0 {
+  width: 100%;
+  height: 100%;
+}
+.depth6Frame0 {
+  width: 0.75rem;
+  height: 0.813rem;
+}
+.depth5Frame0 {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.depth4Frame0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.acmeInc {
+  position: relative;
+  line-height: 1.438rem;
+  display: inline-block;
+  min-width: 5.313rem;
+  white-space: nowrap;
+}
+.depth3Frame0,
+.depth4Frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth3Frame0 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.home {
+  text-decoration: none;
+  position: relative;
+  line-height: 1.313rem;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 2.438rem;
+}
+.depth5Frame01 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.explore {
+  text-decoration: none;
+  position: relative;
+  line-height: 1.313rem;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 3.125rem;
+}
+.depth5Frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.missions {
+  text-decoration: none;
+  position: relative;
+  line-height: 1.313rem;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  min-width: 3.625rem;
+}
+.depth5Frame2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.voting {
+  position: relative;
+  line-height: 1.313rem;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 2.688rem;
+}
+.depth5Frame3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth4Frame01 {
+  margin: 0;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-3xs-5) 0;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-manrope);
+}
+.create {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  line-height: 1.313rem;
+  font-weight: 700;
+  color: inherit;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.depth4Frame11,
+.depth5Frame02 {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.depth5Frame02 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.depth4Frame11 {
+  width: 5.25rem;
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray-200);
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs-5) var(--padding-lg);
+  box-sizing: border-box;
+  min-width: 5.25rem;
+  max-width: 30rem;
+}
+.depth4Frame2 {
+  height: 2.5rem;
+  width: 2.5rem;
+  position: relative;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 2.5rem;
+}
+.depth2Frame0,
+.depth3Frame1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.depth3Frame1 {
+  width: 67.688rem;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 0 var(--padding-578xl);
+  gap: var(--gap-13xl);
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.depth2Frame0 {
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-gainsboro);
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-xs) var(--padding-21xl) var(--padding-2xs);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-0);
+  row-gap: 20px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-manrope);
+}
+@media screen and (max-width: 1050px) {
+  .depth3Frame1 {
+    padding-left: var(--padding-279xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 725px) {
+  .depth4Frame01 {
+    display: none;
+  }
+  .depth4Frame11 {
+    max-width: 100%;
+  }
+  .depth3Frame1 {
+    width: 49.063rem;
+    gap: var(--gap-base);
+    padding-left: var(--padding-130xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .depth3Frame1 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
