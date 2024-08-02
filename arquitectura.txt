@@ -1,0 +1,23 @@
+nodos ipfs:
+	Filecoin: 
+	pinata
+	infura
+	fleek
+
+	skin in the game : para la governanza
+https://betterprogramming.pub/what-is-a-dao-what-is-the-architecture-of-a-dao-how-to-build-a-dao-high-level-d096a97162cc
+
+sibyl resistance
+governor C
+zoodiac
+gnosis multisig
+
+ronin ethL2
+base ethL2
+inmutable X  ethL2
+avalanche l1
+starknet ethL2
+nearprotocol 
+nebula skale l1
+
+modelo de creacion de mercado prodructo constante

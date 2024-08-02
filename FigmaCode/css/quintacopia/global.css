@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-3xl: 1.375rem;
+  --font-size-lg: 1.125rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-10xl: 1.813rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-lgi: 1.188rem;
+  --font-size-smi: 0.813rem;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #1a2633;
+  --color-gray-200: #121a21;
+  --color-lightsteelblue: #94adc7;
+  --color-darkslategray-100: #364d63;
+  --color-darkslategray-200: #263645;
+  --color-cornflowerblue-100: #388fe6;
+  --color-cornflowerblue-200: #338ce6;
+  --color-gainsboro: #e6e8eb;
+
+  /* Gaps */
+  --gap-9xs: 0.25rem;
+  --gap-xl: 1.25rem;
+  --gap-0: 0rem;
+  --gap-xs: 0.75rem;
+  --gap-5xs: 0.5rem;
+  --gap-13xl: 2rem;
+  --gap-base: 1rem;
+  --gap-11xs: 0.125rem;
+  --gap-xs-6: 0.725rem;
+  --gap-xs-7: 0.731rem;
+
+  /* Paddings */
+  --padding-xl: 1.25rem;
+  --padding-5xl: 1.5rem;
+  --padding-lg: 1.125rem;
+  --padding-sm-5: 0.843rem;
+  --padding-base: 1rem;
+  --padding-11xs: 0.125rem;
+  --padding-xs: 0.75rem;
+  --padding-sm: 0.875rem;
+  --padding-lgi: 1.187rem;
+  --padding-2xl: 1.312rem;
+  --padding-7xs-5: 0.343rem;
+  --padding-5xs: 0.5rem;
+  --padding-163xl: 11.375rem;
+  --padding-149xl: 10.5rem;
+  --padding-21xl: 2.5rem;
+  --padding-2xs: 0.687rem;
+  --padding-346xl: 22.812rem;
+  --padding-72xl: 5.687rem;
+  --padding-3xs: 0.625rem;
+  --padding-3xs-5: 0.593rem;
+  --padding-6xl: 1.562rem;
+  --padding-4xl: 1.437rem;
+  --padding-778xl: 49.812rem;
+  --padding-379xl: 24.875rem;
+  --padding-761xl: 48.75rem;
+  --padding-371xl: 24.375rem;
+  --padding-65xl: 5.25rem;
+  --padding-107xl: 7.875rem;
+  --padding-139xl: 9.875rem;
+  --padding-82xl: 6.312rem;
+  --padding-121xl: 8.75rem;
+  --padding-mini: 0.937rem;
+  --padding-458xl: 29.812rem;
+  --padding-100xl: 7.437rem;
+  --padding-219xl: 14.875rem;
+  --padding-4xs-5: 0.531rem;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-9xs: 4px;
+  --br-xl: 20px;
+  --br-5xs: 8px;
+}

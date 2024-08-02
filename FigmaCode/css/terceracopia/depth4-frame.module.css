@@ -1,0 +1,657 @@
+.rank {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .depth9Frame0 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xs) var(--padding-base) var(--padding-smi);
+    box-sizing: border-box;
+  }
+  .address {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .depth9Frame1 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-xs) var(--padding-base) var(--padding-smi);
+    box-sizing: border-box;
+  }
+  .votingPower {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .depth7Frame0,
+  .depth8Frame0,
+  .depth9Frame2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth9Frame2 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: var(--padding-xs) var(--padding-base) var(--padding-smi);
+    box-sizing: border-box;
+  }
+  .depth7Frame0,
+  .depth8Frame0 {
+    align-self: stretch;
+  }
+  .depth8Frame0 {
+    background-color: var(--color-gray-200);
+    overflow-x: auto;
+    flex-direction: row;
+  }
+  .depth7Frame0 {
+    flex-direction: column;
+  }
+  .div {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame01 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame11 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame21 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame01 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame02 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f1 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame12 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div3 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame22 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame1 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div4 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame03 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f2 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame13 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div5 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame23 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame2 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div6 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame04 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f3 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame14 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div7 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame24 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame3 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div8 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame05 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f4 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame15 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div9 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame25 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame4 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div10 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame06 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f5 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame16 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div11 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame26 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame5 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div12 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame07 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f6 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame17 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div13 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame27 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame6 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div14 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame08 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f7 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame18 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div15 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame28 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame7 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div16 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame09 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f8 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame19 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div17 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame29 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame8 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .div18 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame010 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .x17e4f4d2b9e6daa0d5c1d8a3c8f5f9 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame110 {
+    width: 23.875rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .div19 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame210 {
+    width: 17.438rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .depth8Frame9 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    flex-direction: row;
+    padding: 0;
+  }
+  .depth4Frame1,
+  .depth5Frame0,
+  .depth6Frame0,
+  .depth7Frame1,
+  .depth8Frame9 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth7Frame1 {
+    align-self: stretch;
+    flex-direction: column;
+    color: var(--color-darkgray);
+  }
+  .depth4Frame1,
+  .depth5Frame0,
+  .depth6Frame0 {
+    max-width: 100%;
+  }
+  .depth6Frame0 {
+    flex: 1;
+    flex-direction: column;
+  }
+  .depth4Frame1,
+  .depth5Frame0 {
+    align-self: stretch;
+    box-sizing: border-box;
+  }
+  .depth5Frame0 {
+    border-radius: var(--br-xs);
+    background-color: var(--color-gray-400);
+    border: 1px solid var(--color-darkslategray-200);
+    overflow: hidden;
+    flex-direction: row;
+  }
+  .depth4Frame1 {
+    flex-direction: column;
+    padding: var(--padding-xs) var(--padding-base);
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-manrope);
+  }

@@ -1,0 +1,107 @@
+.empty {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame0 {
+    width: 15.5rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+  }
+  .rebrandingAcme {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame1 {
+    width: 16.563rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+    color: var(--color-lightsteelblue);
+  }
+  .inProgress {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 500;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .depth11Frame0 {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .depth10Frame0,
+  .depth9Frame2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .depth10Frame0 {
+    width: 100%;
+    border-radius: var(--br-xs);
+    background-color: var(--color-darkslategray-200);
+    overflow: hidden;
+    flex-direction: row;
+    padding: var(--padding-7xs-5) var(--padding-24xl);
+    min-width: 5.25rem;
+    max-width: 30rem;
+  }
+  .depth9Frame2 {
+    width: 12.063rem;
+    flex-shrink: 0;
+    flex-direction: column;
+    padding: var(--padding-xl) var(--padding-base);
+    text-align: center;
+  }
+  .viewDetails {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth9Frame3 {
+    width: 10.5rem;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-6xl-5) var(--padding-base);
+    box-sizing: border-box;
+    color: var(--color-lightsteelblue);
+  }
+  .depth8Frame0 {
+    align-self: stretch;
+    border-top: 1px solid var(--color-gainsboro);
+    overflow-x: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--color-white);
+    font-family: var(--font-manrope);
+  }
+  @media screen and (max-width: 450px) {
+    .depth10Frame0 {
+      max-width: 100%;
+    }
+  }

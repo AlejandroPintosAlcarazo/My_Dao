@@ -1,0 +1,303 @@
+.anon {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.5rem;
+    font-weight: 500;
+  }
+  .depth7Frame0 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .november182023 {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.313rem;
+  }
+  .depth7Frame1 {
+    font-size: var(--font-size-sm);
+    color: var(--color-lightsteelblue);
+  }
+  .depth6Frame0,
+  .depth7Frame1 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .filledStarsIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth9Frame0 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.125rem;
+    height: 1.063rem;
+  }
+  .depth8Frame0 {
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth7Frame01 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .reviewStarPair {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth9Frame01 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.125rem;
+    height: 1.063rem;
+  }
+  .depth8Frame01 {
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth7Frame11 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .reviewStarPair1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth9Frame02 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.125rem;
+    height: 1.063rem;
+  }
+  .depth8Frame02 {
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth7Frame2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .reviewStarPair2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth9Frame03 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.125rem;
+    height: 1.063rem;
+  }
+  .depth8Frame03 {
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth7Frame3 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .reviewStarPair3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth9Frame04 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.125rem;
+    height: 1.063rem;
+  }
+  .depth8Frame04 {
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth6Frame1,
+  .depth7Frame4 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .depth6Frame1 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 var(--padding-761xl) 0 0;
+    gap: var(--gap-11xs);
+  }
+  .greatPiece {
+    align-self: stretch;
+    position: relative;
+    line-height: 1.5rem;
+  }
+  .depth6Frame2 {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .reviewStarsIcon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth10Frame0 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.125rem;
+    height: 1rem;
+  }
+  .depth9Frame05 {
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth8Frame05 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .div {
+    position: relative;
+    line-height: 1.5rem;
+    display: inline-block;
+    min-width: 0.438rem;
+  }
+  .depth7Frame02,
+  .depth8Frame1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .depth7Frame02 {
+    flex-direction: row;
+    gap: var(--gap-5xs);
+  }
+  .reviewStarsIcon1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .depth10Frame01 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1.125rem;
+    height: 1rem;
+  }
+  .depth9Frame06 {
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .depth7Frame12,
+  .depth8Frame06 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .depth7Frame12 {
+    flex-direction: row;
+    padding: var(--padding-11xs) 0;
+  }
+  .depth5Frame0,
+  .depth6Frame3 {
+    align-self: stretch;
+    display: flex;
+    align-items: flex-start;
+  }
+  .depth6Frame3 {
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 var(--padding-778xl) 0 0;
+    gap: var(--gap-xl);
+    text-align: center;
+    color: var(--color-lightsteelblue);
+  }
+  .depth5Frame0 {
+    background-color: var(--color-gray-200);
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-white);
+    font-family: var(--font-manrope);
+  }
+  @media screen and (max-width: 975px) {
+    .depth6Frame1 {
+      flex-wrap: wrap;
+      padding-right: var(--padding-371xl);
+      box-sizing: border-box;
+    }
+    .depth6Frame3 {
+      padding-right: var(--padding-379xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 725px) {
+    .depth6Frame1,
+    .depth6Frame3 {
+      padding-right: var(--padding-xl);
+      box-sizing: border-box;
+    }
+  }

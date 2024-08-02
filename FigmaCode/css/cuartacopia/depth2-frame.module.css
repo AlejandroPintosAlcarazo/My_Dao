@@ -1,0 +1,226 @@
+.vector0,
+.vector1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.vector1 {
+  z-index: 1;
+}
+.depth6Frame0,
+.depth6Frame1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0.375rem;
+  height: 0.625rem;
+}
+.depth6Frame1 {
+  width: 0.875rem;
+  height: 0.875rem;
+}
+.depth5Frame0 {
+  width: 1rem;
+  height: 1rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.depth4Frame0 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.guild {
+  text-decoration: none;
+  position: relative;
+  line-height: 1.438rem;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 2.875rem;
+  white-space: nowrap;
+}
+.depth3Frame0,
+.depth4Frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth3Frame0 {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-base);
+}
+.depth8Frame0,
+.vector01 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector01 {
+  width: 100%;
+  height: 100%;
+}
+.depth8Frame0 {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+.depth7Frame0 {
+  height: 1.5rem;
+  width: 1.5rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.depth6Frame01 {
+  border-radius: var(--br-xs) 0 0 var(--br-xs);
+  background-color: var(--color-darkslategray-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) 0 var(--padding-5xs) var(--padding-base);
+}
+.search {
+  text-decoration: none;
+  position: relative;
+  line-height: 1.5rem;
+  color: inherit;
+  display: inline-block;
+  min-width: 3.75rem;
+}
+.depth6Frame11 {
+  flex: 1;
+  border-radius: 0 var(--br-xs) var(--br-xs) 0;
+  background-color: var(--color-darkslategray-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xs);
+}
+.depth4Frame01,
+.depth5Frame01 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.depth5Frame01 {
+  align-self: stretch;
+  border-radius: var(--br-xs);
+  flex-direction: row;
+}
+.depth4Frame01 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 10rem;
+  max-width: 16rem;
+}
+.depth7Frame01,
+.vector02 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.vector02 {
+  width: 100%;
+  height: 100%;
+}
+.depth7Frame01 {
+  width: 0.938rem;
+  height: 1rem;
+}
+.depth6Frame02 {
+  width: 1.25rem;
+  height: 1.25rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.depth4Frame11,
+.depth5Frame02 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.depth4Frame11 {
+  border-radius: var(--br-xs);
+  background-color: var(--color-darkslategray-200);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 30rem;
+}
+.depth4Frame2 {
+  height: 2.5rem;
+  width: 2.5rem;
+  position: relative;
+  border-radius: var(--br-xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 2.5rem;
+}
+.depth2Frame0,
+.depth3Frame1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.depth3Frame1 {
+  width: 70.125rem;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 0 var(--padding-799xl);
+  gap: var(--gap-13xl);
+  font-size: var(--font-size-base);
+  color: var(--color-lightsteelblue);
+}
+.depth2Frame0 {
+  align-self: stretch;
+  border-bottom: 1px solid var(--color-gainsboro);
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-xs) var(--padding-21xl) var(--padding-2xs);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-0);
+  row-gap: 20px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-manrope);
+}
+@media screen and (max-width: 1125px) {
+  .depth3Frame1 {
+    padding-left: var(--padding-390xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .depth4Frame11 {
+    max-width: 100%;
+  }
+  .depth3Frame1 {
+    gap: var(--gap-base);
+    padding-left: var(--padding-185xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .depth3Frame1 {
+    padding-left: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
